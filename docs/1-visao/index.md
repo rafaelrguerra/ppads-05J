@@ -50,7 +50,6 @@ esperadas do sistema.
 
 * Funcionalidade 1
 * Funcionalidade 2
-* Funcionalidade 3
 * etc.
 
 ## Restrições do projeto
@@ -64,8 +63,14 @@ esperadas do sistema.
 
 ### Protótipos para funcionalidade 1
 
+![](proto1.png)
+
+Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+
 ### Protótipos para funcionalidade 2
 
-### Protótipos para funcionalidade 3
+![](proto2.png)
+
+Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade N
