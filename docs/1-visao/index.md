@@ -40,10 +40,9 @@ esperadas do sistema.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Fornecedores
+* Empregados
+* Representantes
 
 ## Funcionalidades do produto
 
