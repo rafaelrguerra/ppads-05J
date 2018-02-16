@@ -6,17 +6,16 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Possibilitar a gestão do processo de inovação;
+* Desenvolvimento de ideias em ambiente colaborativo;
+* Gestão do portfólio de ideias.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: A empresa não atinge seu máximo potencial pela falta de novas ideias.
+* Quem é afetado pelo problema: Todos. Direta ou indiretamente.
+* Impacto no negócio: Com o tempo, o lucro poderá ser menor.
+* Benefícios de uma boa solução: A empresa estará fazendo o máximo que pode para melhorar, consequentemente, se manterá bem no mercado.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -48,9 +47,11 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Ideação: captar ideias para fomentar o processo de inovação da Ditec – Banco do Brasil por meio de lançamento de campanhas e desafios junto à comunidade de inovação;
+* Colaboração: realizar interações junto às comunidades de inovação por meio de fóruns de discussão, relacionamentos, blogs, wikis e outras atividades colaborativas; 
+* Desenvolvimento de Ideias: possibilitar a maturação e seleção de ideias por meio de estágios, perfazendo o funil da inovação;
+* Gestão de Ideias: possibilitar o acompanhamento da ideia nos seus
+diversos estágios de maturação e fornecer visões do processo por meio de recursos como consultas, relatórios e gráficos, que permitam gerir eficazmente o portfólio de inovação. 
 
 ## Restrições do projeto
 
